@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, ai, ml
 - 💞️ I’m looking to collaborate on python
 - 📫 How to reach me shaiq123@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: no fun :(
 
 <!---
